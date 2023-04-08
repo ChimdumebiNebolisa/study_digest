@@ -1508,3 +1508,44 @@ a:hover {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+.custom-shape-divider-bottom-1680971960 {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1680971960 svg {
+    position: relative;
+    display: block;
+    width: calc(139% + 1.3px);
+    height: 98px;
+}
+
+.custom-shape-divider-bottom-1680971960 .shape-fill {
+    fill: #FFF2DC;
+}
+
+.custom-shape-divider-top-1680972228 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+	transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1680972228 svg {
+    position: relative;
+    display: block;
+    width: calc(139% + 1.3px);
+    height: 98px;
+}
+
+.custom-shape-divider-top-1680972228 .shape-fill {
+    fill: #272556;
+}
